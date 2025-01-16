@@ -1,5 +1,6 @@
 # Best Practices for Code Design and Development
-Try to create a flow for the code where the parent function contains all children as a control group. Here is the [Create Flow for Later Use]([link-to-create-flow-for-later-use](https://github.com/Shubham-leo/Enrichment_doc_demo/blob/master/Guidelines.md#data-privacy) and the [flow chart](link-to-flow-chart) of enrichment as an example.
+Try to create a flow for the code where the parent function contains all children as a control group. Here is the [Create Flow for Later Use](https://github.com/Shubham-leo/Enrichment_doc_demo/blob/master/Guidelines.md#data-privacy) and the [flow chart](https://github.com/Shubham-leo/Enrichment_doc_demo/blob/master/Guidelines.md#13-create-flow-for-later-use) of enrichment as an example.
+
 
 ## 1. Modular Design
 
