@@ -1,5 +1,6 @@
 # Enrichment 
 Enrichment task analyze news articles to extract key information. It identifies organizations and individuals mentioned, evaluates sentiment for sentences with specific keywords, generates concise summaries, detects and classifies events, and categorizes the news into predefined labels. Enriched data is then updated in a database for further use.
+[Flow Chart](https://lucid.app/lucidchart/f79bba75-30f0-4281-bde0-8fb17ce4f99c/edit?viewport_loc=-345%2C-274%2C1752%2C814%2C0_0&invitationId=inv_0c5aa225-5669-48ef-b442-5cb6786e7e87)
 
 
 1. **Initialize Parent Function `perform_enrichment `**
