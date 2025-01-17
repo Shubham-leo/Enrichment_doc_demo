@@ -1,5 +1,5 @@
 # Best Practices for Code Design and Development
-Try to create a flow for the code where the parent function contains all children as a control group. Here is the [Enrichment Task Flow](https://github.com/Shubham-leo/Enrichment_doc_demo/blob/master/Guidelines.md#data-privacy) and the [Flow chart for enrichment](https://github.com/Shubham-leo/Enrichment_doc_demo/blob/master/enrichment%20flow.png) of enrichment as an example.
+Try to create a flow for the code where the parent function contains all children as a control group. Here is the [Enrichment Task](https://github.com/Shubham-leo/Enrichment_doc_demo/blob/master/Enrichment.md) and the [Flow chart for enrichment](https://github.com/Shubham-leo/Enrichment_doc_demo/blob/master/enrichment%20flow.png) of enrichment as an example.
 
 
 ## 1. Modular Design
